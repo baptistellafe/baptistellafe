@@ -1,7 +1,9 @@
 
 Tecnologias que utilizo no dia a dia.
 <br><br>
-![Test stack](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg)
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VSCode" title="VSCode" height="25"
+</div>
 
 <!--
 **baptistellafe/baptistellafe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
