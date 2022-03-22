@@ -1,4 +1,4 @@
-
+![Alt text](https://baptistellafe.com.br/assets/stack.jpeg?raw=true "Title")
 
 <!--
 **baptistellafe/baptistellafe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
