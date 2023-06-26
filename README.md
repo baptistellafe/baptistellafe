@@ -24,6 +24,7 @@ Tecnologias que utilizo no dia a dia.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" alt="Trello" title="Trello" height="25" />
   <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/bitbucket/bitbucket-original.svg" alt="Bitbucket" title="Bitbucket" height="25" />
   <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/vscode/vscode-original.svg" alt="VSCode" title="VSCode" height="25" />
+  <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/gitlab/gitlab-original.svg" alt="VSCode" title="VSCode" height="25" />
 </div>
 
 <!--
